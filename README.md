@@ -1,38 +1,42 @@
-## Hi there! 👋 I'm Mohit Kumar
+# Hi, I'm Mohit Kumar 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" align="right" width="400" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohit%20Kumar&fontSize=90" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-MOHIT%20KUMAR-%230077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-DSA%20PROFILE-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/your-leetcode-handle/)
-<br />
-[![Codeforces](https://img.shields.io/badge/CODEFORCES-COMPETITIVE%20PROGRAMMING-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/your-handle)
-
----
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/YOUR_LEETCODE_ID"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="https://codeforces.com/profile/YOUR_CODEFORCES_ID"><img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+</p>
 
 ### 🚀 About Me
-
-* ⚡ **Solving DSA Problems** in **C++** (Primary Language)
-* 🤖 **Currently Learning:** Machine Learning & Advanced AI Concepts
-* 📚 **Languages Known:** C, C++, Java, and Python
-* 🛠️ **Building:** Machine Learning Models and Robotics Projects
-* 📫 **Contact me at:** mohitkumarbedwal777@gmail.com
-
----
-
-### 🛠️ Tech Stack
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+* 🎓 **Class 10 Student** passionate about high-level engineering.
+* ⚡ **DSA:** Solving problems primarily in **C++**.
+* 🤖 **AI/ML:** Currently learning Machine Learning and exploring Robotics.
+* 💻 **Languages:** Proficient in **C, C++, Java, and Python**.
+* 🎯 **Goal:** Building advanced AI systems and mastering Competitive Programming.
 
 ---
 
-### 📊 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=your-leetcode-handle&theme=dark)
+### 🏆 DSA Stats (LeetCode)
+<p align="left">
+<img src="https://leetcode-stats-six.vercel.app/api?username=MOHIT_KUMAR&theme=dark" alt="Mohit's LeetCode Stats" />
+</p>
 
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,matlab,sklearn,py,visualstudio,github,git" />
+</p>
+
+---
+
+### 📈 GitHub Activity
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHIT-DOT72&theme=dark" alt="GitHub Streak" />
+</p>
 <!--
 **Mohit-dot72/Mohit-dot72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
