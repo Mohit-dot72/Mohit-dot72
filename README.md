@@ -27,7 +27,7 @@
 * ⚡ **DSA:** Solving problems primarily in **C++**.
 * 🤖 **AI/ML:** Currently learning Machine Learning and exploring Robotics.
 * 💻 **Languages:** Proficient in **C, C++, Java, and Python**.
-* 🎯 **Goal:** Building advanced AI systems and mastering Competitive Programming.
+* 🎯 **Goal:** Building advanced AI systems and Robots.
 
 ---
 
