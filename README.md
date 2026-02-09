@@ -5,9 +5,21 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/YOUR_LEETCODE_ID"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_ID"><img src="https://img.shields.io/badge/Codeforces-445?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+<p align="center">
+
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-kumar-60373a338/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bb9yQPmacSriKniV6H6RYZA%3D%3D">
+    <img src="https://img.shields.io/badge/LINKEDIN-MOHIT%20KUMAR-%230077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://leetcode.com/u/https://leetcode.com/u/Mohit_bedwal/l/">
+    <img src="https://img.shields.io/badge/LEETCODE-MOHIT--KUMAR-FFA116?style=for-the-badge&logo=leetcode" />
+  </a>
+
+  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
+    <img src="https://img.shields.io/badge/CODEFORCES-MOHIT--KUMAR-1F8ACB?style=for-the-badge&logo=codeforces" />
+  </a>
+
+</p>
 </p>
 
 ### 🚀 About Me
