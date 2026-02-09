@@ -4,14 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohit%20Kumar&fontSize=90" />
 </p>
 
-<p align="center">
+
 <p align="center">
 
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-kumar-60373a338/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bb9yQPmacSriKniV6H6RYZA%3D%3D">
+  <a href="https://linkedin.com/in/mohit-kumar-60373a338/">
     <img src="https://img.shields.io/badge/LINKEDIN-MOHIT%20KUMAR-%230077B5?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="https://leetcode.com/u/https://leetcode.com/u/Mohit_bedwal/l/">
+  <a href="https://leetcode.com/u/Mohit_bedwal/">
     <img src="https://img.shields.io/badge/LEETCODE-MOHIT--KUMAR-FFA116?style=for-the-badge&logo=leetcode" />
   </a>
 
@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/CODEFORCES-MOHIT--KUMAR-1F8ACB?style=for-the-badge&logo=codeforces" />
   </a>
 
-</p>
+
 </p>
 
 ### 🚀 About Me
