@@ -58,10 +58,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,matlab,sklearn,py,visualstudio,github,git" />
-</p>
+
 
 ---
 
