@@ -23,7 +23,7 @@
 </p>
 
 ### 🚀 About Me
-* 🎓 **Class 10 Student** passionate about high-level engineering.
+* 🎓 **Btech 2nd year Student** passionate about high-level engineering.
 * ⚡ **DSA:** Solving problems primarily in **C++**.
 * 🤖 **AI/ML:** Currently learning Machine Learning and exploring Robotics.
 * 💻 **Languages:** Proficient in **C, C++, Java, and Python**.
@@ -32,8 +32,28 @@
 ---
 
 ### 🏆 DSA Stats (LeetCode)
+
 <p align="left">
-<img src="https://leetcode-stats-six.vercel.app/api?username=MOHIT_KUMAR&theme=dark" alt="Mohit's LeetCode Stats" />
+  <a href="https://leetcode.com/u/Mohit_bedwal/">
+    <img src="https://leetcard.jacoblin.cool/Mohit_bedwal?theme=dark&font=Libre%20Franklin&ext=activity" alt="Mohit's LeetCode Stats" />
+  </a>
+</p>
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,sklearn,pytorch,github,vscode,visualstudio,matlab" />
+  </a>
+</p>
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/mohit-kumar-60373a338">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Mohit_bedwal/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
@@ -49,33 +69,7 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHIT-DOT72&theme=dark" alt="GitHub Streak" />
 </p>
-### 🏆 DSA Stats (LeetCode)
 
-<p align="left">
-  <a href="https://leetcode.com/u/Mohit_bedwal/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=Mohit_bedwal&theme=dark" alt="Mohit's LeetCode Stats" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,sklearn,github,visualstudio,vscode" />
-</p>
-
----
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/mohit-kumar-60373a338">
-    <img src="https://img.shields.io/badge/LINKEDIN-MOHIT%20KUMAR-%230077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-MESSAGE-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
 <!--
 **Mohit-dot72/Mohit-dot72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
