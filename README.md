@@ -72,7 +72,7 @@
 
 ### 📈 GitHub Activity
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHIT-DOT72&theme=dark" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=MOHIT-DOT72&theme=dark" alt="GitHub Streak" />
 </p>
 
 <!--
