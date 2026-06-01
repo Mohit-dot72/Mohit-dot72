@@ -27,7 +27,7 @@
 ```javascript
 const Mohit = {
     Education: "B.Tech @ BKBIET Pilani",
-    Role: "CS Student , MERN Developer,AI/ML Engineer",
+    Role: "CS Student , MERN Developer , AI/ML Engineer",
     Learning: ["DSA", "MERN", "Machine Learning", "Robotics"],
     Languages: ["C++", "Python", "JavaScript","Java","C Programming"],
     Interests: ["AI", "Robotics", "Full Stack Development"],
