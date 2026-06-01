@@ -51,18 +51,13 @@ const Mohit = {
 
 ### 🏆 DSA Stats (LeetCode)
 
-<p align="left">
+<p align="center">
   <a href="https://leetcode.com/u/Mohit_bedwal/">
     <img src="https://leetcard.jacoblin.cool/Mohit_bedwal?theme=dark&font=Libre%20Franklin&ext=activity" alt="Mohit's LeetCode Stats" />
   </a>
 </p>
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,sklearn,pytorch,github,vscode,visualstudio,matlab" />
-  </a>
-</p>
+
 
 ### 🔗 Connect With Me
 <p align="left">
