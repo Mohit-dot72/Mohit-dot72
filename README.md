@@ -22,8 +22,19 @@
 
 </p>
 
-### 🚀 About Me
+## 🚀 About Me
 
+```javascript
+const mohit = {
+    education: "B.Tech @ BKBIET Pilani",
+    role: "CS Student & MERN Developer",
+    learning: ["DSA", "MERN", "Machine Learning", "Robotics"],
+    languages: ["C++", "Python", "JavaScript"],
+    interests: ["AI", "Robotics", "Full Stack Development"],
+    goal: "Building advanced AI systems and robots 🤖",
+    motto: "Code. Learn. Build. Repeat."
+};
+```
 ---
 
 ## 💻 Tech Stack
