@@ -22,17 +22,41 @@
 
 </p>
 
-## 🚀 About Me
+
+##  About Me
 
 ```javascript
 const Mohit = {
+    Name: "Mohit Kumar",
     Education: "B.Tech @ BKBIET Pilani",
-    Role: "CS Student , MERN Developer , AI/ML Engineer",
-    Learning: ["DSA", "MERN", "Machine Learning", "Robotics"],
-    Languages: ["C++", "Python", "JavaScript","Java","C Programming"],
-    Interests: ["AI", "Robotics", "Full Stack Development"],
-    Goal: "Building advanced AI systems and robots 🤖",
-    Motto: "Learn. Build. Repeat."
+    
+    Roles: [
+        "Computer Science Student",
+        "MERN Stack Developer",
+        "AI & ML Enthusiast",
+        "DSA Learner",
+        "Robotics Enthusiast"
+    ],
+
+    CurrentlyLearning: [
+        "Data Structures & Algorithms",
+        "MERN Stack Development",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Robotics"
+    ],
+
+
+    Interests: [
+        "AI Systems",
+        "Robotics",
+        "Full Stack Development",
+        "Problem Solving"
+    ],
+
+    Goal: "Building intelligent AI systems, robots, and impactful software.",
+
+    Motto: "Learn • Build • Innovate • Repeat 🚀"
 };
 ```
 ---
