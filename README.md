@@ -25,14 +25,14 @@
 ## 🚀 About Me
 
 ```javascript
-const mohit = {
-    education: "B.Tech @ BKBIET Pilani",
-    role: "CS Student & MERN Developer",
-    learning: ["DSA", "MERN", "Machine Learning", "Robotics"],
-    languages: ["C++", "Python", "JavaScript"],
-    interests: ["AI", "Robotics", "Full Stack Development"],
-    goal: "Building advanced AI systems and robots 🤖",
-    motto: "Code. Learn. Build. Repeat."
+const Mohit = {
+    Education: "B.Tech @ BKBIET Pilani",
+    Role: "CS Student & MERN Developer",
+    Learning: ["DSA", "MERN", "Machine Learning", "Robotics"],
+    Languages: ["C++", "Python", "JavaScript","Java","C Programming"],
+    Interests: ["AI", "Robotics", "Full Stack Development"],
+    Goal: "Building advanced AI systems and robots 🤖",
+    Motto: "Learn. Build. Repeat."
 };
 ```
 ---
