@@ -82,7 +82,8 @@ const Mohit = {
 
 ---
 
-### 📈 GitHub Activity
+## 📈 GitHub Activity
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mohit-dot72&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
