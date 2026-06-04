@@ -83,9 +83,9 @@ const Mohit = {
 ---
 
 ## 📈 GitHub Activity
-
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mohit-dot72&theme=tokyonight)](https://git.io/streak-stats)
-
+</div>
 <!--
 **Mohit-dot72/Mohit-dot72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
