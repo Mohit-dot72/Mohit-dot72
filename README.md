@@ -30,30 +30,13 @@ const Mohit = {
     Name: "Mohit Kumar",
     Education: "B.Tech @ BKBIET Pilani",
     
-    Roles: [
+    Roles, Interests: [
         "Computer Science Student",
         "MERN Stack Developer",
         "AI & ML Enthusiast",
         "DSA Learner",
-        "Robotics Enthusiast"
+        "Robotics "
     ],
-
-    CurrentlyLearning: [
-        "Data Structures & Algorithms",
-        "MERN Stack Development",
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Robotics"
-    ],
-
-
-    Interests: [
-        "AI Systems",
-        "Robotics",
-        "Full Stack Development",
-        "Problem Solving"
-    ],
-
     Goal: "Building intelligent AI systems, robots, and impactful software.",
 
     Motto: "Learn • Build • Innovate • Repeat 🚀"
@@ -101,7 +84,7 @@ const Mohit = {
 
 ### 📈 GitHub Activity
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MOHIT-DOT72&theme=dark" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohit-dot72&theme=tokyonight)](https://git.io/streak-stats) />
 </p>
 
 <!--
