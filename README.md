@@ -15,10 +15,6 @@
     <img src="https://img.shields.io/badge/LEETCODE-MOHIT--KUMAR-FFA116?style=for-the-badge&logo=leetcode" />
   </a>
 
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME">
-    <img src="https://img.shields.io/badge/CODEFORCES-MOHIT--KUMAR-1F8ACB?style=for-the-badge&logo=codeforces" />
-  </a>
-
 
 </p>
 
