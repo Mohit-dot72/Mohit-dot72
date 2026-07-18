@@ -19,26 +19,23 @@
 </p>
 
 
-##  About Me
+## ## About Me
 
-```javascript
-const Mohit = {
-    Name: "Mohit Kumar",
-    Education: "B.Tech @ BKBIET Pilani",
-    
-    Roles, Interests: [
-        "Computer Science Student",
-        "MERN Stack Developer",
-        "AI & ML Enthusiast",
-        "DSA Learner",
-        "Robotics "
-    ],
-    Goal: "Building intelligent AI systems, robots, and impactful software.",
+Hi, I'm **Mohit Kumar**, a B.Tech Computer Science student at **BKBIET Pilani**.
 
-    Motto: "Learn • Build • Innovate • Repeat 🚀"
-};
-```
----
+I'm interested in:
+
+* MERN Stack Development
+* Artificial Intelligence & Machine Learning
+* Data Structures & Algorithms
+* Robotics
+
+I'm currently focused on improving my development skills by building real-world projects and learning new technologies.
+
+**Goal:** Build intelligent AI systems, robots, and software that creates real-world impact.
+
+**Motto:** *Learn • Build • Innovate • Repeat.*
+
 
 ## 💻 Tech Stack
 
