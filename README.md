@@ -19,7 +19,7 @@
 </p>
 
 
-## ## About Me
+## About Me
 
 Hi, I'm **Mohit Kumar**, a B.Tech Computer Science student at **BKBIET Pilani**.
 
