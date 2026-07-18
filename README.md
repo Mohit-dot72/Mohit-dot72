@@ -23,18 +23,19 @@
 
 Hi, I'm **Mohit Kumar**, a B.Tech Computer Science student at **BKBIET Pilani**.
 
-I'm interested in:
+I have experience with:
 
 * MERN Stack Development
 * Artificial Intelligence & Machine Learning
 * Data Structures & Algorithms
 * Robotics
 
-I'm currently focused on improving my development skills by building real-world projects and learning new technologies.
+I enjoy building full-stack applications, solving programming problems, and exploring AI-driven solutions.
 
-**Goal:** Build intelligent AI systems, robots, and software that creates real-world impact.
+**Goal:** Build intelligent AI systems, robots, and software that solves real-world problems.
 
 **Motto:** *Learn • Build • Innovate • Repeat.*
+
 
 
 ## 💻 Tech Stack
