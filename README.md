@@ -17,7 +17,9 @@
 
 
 </p>
-![](https://komarev.com/ghpvc/?username=Mohit-dot72&color=blue)
+<div align="center">
+  <img src="![](https://komarev.com/ghpvc/?username=Mohit-dot72&color=blue)" alt="" />
+</div>
 
 ## About Me
 
