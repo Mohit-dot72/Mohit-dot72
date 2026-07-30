@@ -17,7 +17,7 @@
 
 
 </p>
-
+![](https://komarev.com/ghpvc/?username=Mohit-dot72&color=blue)
 
 ## About Me
 
