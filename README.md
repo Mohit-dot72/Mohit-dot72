@@ -28,7 +28,7 @@ I have experience with:
 * MERN Stack Development
 * Artificial Intelligence & Machine Learning
 * Data Structures & Algorithms
-* Robotics
+ 
 
 I enjoy building full-stack applications, solving programming problems, and exploring AI-driven solutions.
 
