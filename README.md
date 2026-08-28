@@ -25,7 +25,7 @@ Hi, I'm **Mohit Kumar**, a B.Tech Computer Science student at **BKBIET Pilani**.
 
 I have experience with:
 
-* MERN Stack Development
+* Full-Stack Development
 * Artificial Intelligence & Machine Learning
 * Data Structures & Algorithms
  
